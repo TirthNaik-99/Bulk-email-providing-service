@@ -58,7 +58,6 @@ cd Bulk-email-providing-service
 - 4. Customize your email_template.html or use a plain text message.
 - 5. Run the email sender script:
 
-####Code Blocks
 bash
 python email_sender.py
 - 6. Check logs to verify sent emails and any errors.
