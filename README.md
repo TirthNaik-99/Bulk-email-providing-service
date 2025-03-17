@@ -27,7 +27,7 @@ Bulk-email-providing-service/ ├── email_sender.py # Core script to send bu
   
 You can install dependencies using:
 
-```bash
+bash
 pip install pandas
 
 ## ⚙️ Configuration
@@ -50,7 +50,6 @@ You can modify or expand columns based on personalization needs.
 ## 📨 How to Use
 - 1. Clone this repository:
 bash
-####Code Blocks
 git clone https://github.com/TirthNaik-99/Bulk-email-providing-service.git
 cd Bulk-email-providing-service
 
