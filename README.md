@@ -1,5 +1,7 @@
 # Bulk Email Providing Service
 
+# Video Demo : https://youtu.be/Av2BA-KIM28
+
 A Python-based application designed to streamline the process of sending personalized bulk emails efficiently and securely. Whether you're reaching out to clients, customers, or subscribers, this tool helps automate email distribution with ease.
 
 ## 🚀 Features
